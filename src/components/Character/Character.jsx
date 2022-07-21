@@ -1,4 +1,4 @@
-import './character.css';
+import './Character.css';
 
 function Character({character}) {
     return (

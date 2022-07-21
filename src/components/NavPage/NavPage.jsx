@@ -1,4 +1,4 @@
-import './navPage.css';
+import './NavPage.css';
 function NavPage(props) {
 
     const prevPage = () => {
