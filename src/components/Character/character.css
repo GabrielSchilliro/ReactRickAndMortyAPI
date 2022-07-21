@@ -1,0 +1,10 @@
+/* Character */
+.characters {
+    text-align: center;
+    padding: 1em;
+}
+
+.image {
+    border-radius: 50%;
+}
+/* Character end */

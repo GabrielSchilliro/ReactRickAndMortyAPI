@@ -1,0 +1,18 @@
+/* Character List */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media screen and (max-width: 1368px) {
+    .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
+/* Character List end */

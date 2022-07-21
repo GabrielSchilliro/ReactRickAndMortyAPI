@@ -1,0 +1,25 @@
+/* NavPage */
+.navpage {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 1rem;
+    padding: 2rem;
+    font-weight: 700;
+}
+
+.btn {
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    line-height: 1;
+    margin: 0.5rem;
+    padding: 1rem;
+}
+
+.btn:hover{
+    cursor: pointer;
+}
+/* NavPage end */

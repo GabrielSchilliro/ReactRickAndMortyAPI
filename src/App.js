@@ -1,5 +1,6 @@
+import React from 'react'
 import './App.css';
-import CharacterList from './components/CharacterList';
+import CharacterList from './components/CharacterList/CharacterList';
 
 function App() {
 

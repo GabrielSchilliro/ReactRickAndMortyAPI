@@ -9,44 +9,15 @@ h1 {
     text-align: center;
 }
 
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background-color: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #ffffff;
+}
 /* Global styles end */
-/* NavPage */
-.navpage {
-    display: flex;
-    justify-content: space-between;
-    padding: 2em;
-    font-weight: 700;
-}
-
-.btn {
-    background: none;
-    border: 2px solid;
-    font: inherit;
-    line-height: 1;
-    margin: 0.5em;
-    padding: 1em 2em;
-}
-
-/* NavPage end */
-/* Character List */
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-}
-
-.grid {
-    justify-content: center;
-}
-
-/* Character List end */
-/* Character */
-.characters {
-    text-align: center;
-    padding: 1em;
-}
-
-.image {
-    border-radius: 50%;
-}
-
-/* Character end */

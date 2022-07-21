@@ -1,8 +1,7 @@
-import React from 'react';
-import '../App.css';
+import './characterList.css';
 import { useEffect, useState } from 'react';
-import Character from './Character';
-import NavPage from './NavPage'
+import Character from '../Character/Character';
+import NavPage from '../NavPage/NavPage';
 
 const CharacterList = () => {
 

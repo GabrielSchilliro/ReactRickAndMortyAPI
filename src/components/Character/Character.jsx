@@ -1,3 +1,5 @@
+import './character.css';
+
 function Character({character}) {
     return (
         <div className="characters">
