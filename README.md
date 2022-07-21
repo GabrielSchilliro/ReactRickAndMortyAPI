@@ -2,4 +2,7 @@
 Es una aplicación web con React que permite ver los personajes de la serie.
 
 ##
-Mediante una peticion Fetch a la API muestro un listado de los personajes
+Mediante una petición Fetch a la API muestro un listado de los personajes
+
+##
+Podes verla acá: https://gabrielschilliro.github.io/ReactRickAndMortyAPI/
